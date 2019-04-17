@@ -39,7 +39,8 @@ Figure 1 – Azure regional pairs
 | North America |East US |West US |
 | North America |East US 2 |Central US |
 | North America |North Central US |South Central US |
-| North America |West US 2 |West Central US 
+| North America |West US 2 |West Central US |
+| South Africa |North |West |
 | UK |UK West |UK South |
 | US Department of Defense |US DoD East |US DoD Central |
 | US Government |US Gov Arizona |US Gov Texas |
